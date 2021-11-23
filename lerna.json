@@ -1,0 +1,6 @@
+{
+  "version": "independet",
+	"npmClient": "npm",
+	"packages": ["Atoms/*", "borasco-doc/*", "./*"],
+	"logLevel": "info"
+}
