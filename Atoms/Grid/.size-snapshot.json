@@ -1,0 +1,16 @@
+{
+  "@grid.min.js": {
+    "bundled": 598,
+    "minified": 598,
+    "gzipped": 374,
+    "treeshaked": {
+      "rollup": {
+        "code": 474,
+        "import_statements": 14
+      },
+      "webpack": {
+        "code": 1458
+      }
+    }
+  }
+}
