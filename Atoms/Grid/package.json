@@ -1,5 +1,5 @@
 {
-  "name": "@borasco-ui/grid",
+  "name": "@atomic-next/grid",
   "version": "1.0.0",
   "description": "\"Компонент сетки\"",
   "main": "lib/@grid.min.js",
