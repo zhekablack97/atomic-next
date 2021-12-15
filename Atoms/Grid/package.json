@@ -1,5 +1,5 @@
 {
-  "name": "@atomic-next/grid",
+  "name": "@atomic-next/container",
   "version": "1.0.0",
   "description": "\"Компонент сетки\"",
   "main": "lib/@grid.min.js",

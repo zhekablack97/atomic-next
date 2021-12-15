@@ -1,2 +1,2 @@
-import Grid from "./Grid";
-export default Grid;
+import Container from './Container';
+export default Container;
