@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <Container as="section" col="1fr">djfndkjfn</Container>
+        <Container as="section" className={styles.section} col="1fr">djfndkjfn</Container>
         <Container col="1fr 2fr">djfndp[pkjfn</Container>
         <Container col="1fr" >djfndkjfn</Container>
       </header>

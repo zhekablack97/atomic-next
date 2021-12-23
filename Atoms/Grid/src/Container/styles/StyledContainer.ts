@@ -13,10 +13,6 @@ export const StyledContainer = styled(Wrapper)`
     grid-auto-rows: ${({ autoRow }) => (autoRow ? 'minmax(auto, max-content)' : 'auto')};
     grid-auto-columns: ${({ autoCol }) => (autoCol ? 'minmax(auto, max-content)' : 'auto')};
 
-    grid-auto-flow: ${({ gridAutoFlow = '' }) => gridAutoFlow};
-
-    grid-template-areas: ${({ area = '' }) => area };
-
     grid-row-gap: ${({ gap = '' }) => gap.split(' ')[0]};
     grid-column-gap: ${({ gap = '' }) => (gap.split(' ').length === 1 ? gap : gap.split(' ')[1])};
 
